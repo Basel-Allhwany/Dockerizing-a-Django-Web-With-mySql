@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django-db',
-        'USER': 'admin',
-        'PASSWORD': '2992001',
-        'HOST': 'mysql',  # Name of the MySQL service in Docker network
+        'NAME': 'djangodb',
+        'USER': 'root',
+        'PASSWORD': 'password',
+        'HOST': '10.0.0.20',  # Name of the MySQL service in Docker network
         'PORT': '3306',   # Default MySQL port
     }
 }
