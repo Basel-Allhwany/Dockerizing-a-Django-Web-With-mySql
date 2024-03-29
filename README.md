@@ -1,7 +1,7 @@
 # Dockerizing-a-Django-Web-With-mySql
 # Table of Contents
 
--   [Prerequisites](#prerequisites)       -   [How to Build](#how-to-build)       -   [Configuration](#configuration)
+-  ## [Prerequisites](#prerequisites)         ## [How to Build](#how-to-build)       -   ## [Configuration](#configuration)
 
 ## Prerequisites
 
