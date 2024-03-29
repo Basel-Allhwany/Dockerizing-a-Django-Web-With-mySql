@@ -65,6 +65,6 @@ Before starting, ensure you have the following prerequisites installed:
 7.Finally go to http://10.0.0.11 to Check The Connectivity
 
     
-##Configuration
+## Configuration
 - configure django settings by editting ./django/mysite/settings.py file
 - The proxy pass and the server name can be configured by editting ./etc/nginx/conf.d/default.conf file
