@@ -64,6 +64,8 @@ Before starting, ensure you have the following prerequisites installed:
     ```
 7.Finally go to http://10.0.0.11 to Check The Connectivity
 
+![تصميم بدون عنوان](https://github.com/Basel-Allhwany/Dockerizing-a-Django-Web-With-mySql/assets/165336853/2aae53e9-2b46-4ce6-a410-c4e6697c4f79)
+
     
 ## Configuration
 - configure django settings by editting ./django/mysite/settings.py file
