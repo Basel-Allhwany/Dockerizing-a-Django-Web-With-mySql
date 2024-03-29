@@ -57,13 +57,12 @@ Before starting, ensure you have the following prerequisites installed:
 
   ```bash
     docker exec -it <mysql_container_id> bash
-
     $ mysql -p
     > SHOW DATABASES;
     > USE djangodb;
     > SHOW TABLES;
-    ```
-7. Finally go to http://10.0.0.11 to Check The Connectivity
+ ```
+7.Finally go to http://10.0.0.11 to Check The Connectivity
 
     
 ##Configuration
