@@ -67,4 +67,8 @@ Before starting, ensure you have the following prerequisites installed:
     
 ## Configuration
 - configure django settings by editting ./django/mysite/settings.py file
+  ![Screenshot from 2024-03-29 16-51-13](https://github.com/Basel-Allhwany/Dockerizing-a-Django-Web-With-mySql/assets/165336853/7f8ceb98-9898-410c-9650-af72f40b41ee)
+
 - The proxy pass and the server name can be configured by editting ./etc/nginx/conf.d/default.conf file
+  ![Screenshot from 2024-03-29 16-52-31](https://github.com/Basel-Allhwany/Dockerizing-a-Django-Web-With-mySql/assets/165336853/b8d1724b-099d-4bd9-a88a-de8edb612fdf)
+
