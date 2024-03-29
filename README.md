@@ -55,13 +55,13 @@ Before starting, ensure you have the following prerequisites installed:
     ```
    to Check tables in the MySQL container :
 
-  ```bash
-    docker exec -it <mysql_container_id> bash
-    $ mysql -p
-    > SHOW DATABASES;
-    > USE djangodb;
-    > SHOW TABLES;
- ```
+     ```bash
+       docker exec -it <mysql_container_id> bash
+       $ mysql -p
+       > SHOW DATABASES;
+       > USE djangodb;
+       > SHOW TABLES;
+    ```
 7.Finally go to http://10.0.0.11 to Check The Connectivity
 
     
